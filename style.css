@@ -39,6 +39,15 @@ a {
     background-size: cover;
     padding: 100px 50px;
 }
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation li {
+    display: inline;
+}
+
 
 .header h1 {
     margin-top: 0;
