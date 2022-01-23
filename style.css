@@ -37,7 +37,7 @@ a {
     width: 100%;
     background-image: url(bk.jpeg);
     background-size: cover;
-    padding: 50px 50px;
+    padding: 30px 30px;
 }
 .header h1 {
     margin-top: 50px;
@@ -72,6 +72,9 @@ a {
     padding: 20px 30px;
     border-radius: 10px;
     text-decoration: none;
+    margin-left:85%;
+   
+    
 }
 
 .front a:hover{
