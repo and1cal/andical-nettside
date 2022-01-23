@@ -57,3 +57,8 @@ a {
     background-image: url(bk.jpeg);
     padding: 80px 60px;
 }
+
+button {
+    size: 50px;
+    
+}
