@@ -25,7 +25,7 @@ h2 {
 }
 
 a {
-    color:cornsilk;
+    color:white;
 }
 .container {
     font-style: italic;
@@ -37,7 +37,10 @@ a {
     width: 100%;
     background-image: url(bk.jpeg);
     background-size: cover;
-    padding: 100px 50px;
+    padding: 50px 50px;
+}
+.header h1 {
+    margin-top: 50px;
 }
 .navigation {
     display: flex;
@@ -48,17 +51,28 @@ a {
     display: inline;
 }
 
+.navigation a {
+    padding: 20px 30px;
+    border-radius: 10px;
+    text-decoration: none;
 
-.header h1 {
-    margin-top: 0;
 }
+.navigation a:hover{
+    background-color: rgba(0, 0, 0, 0.5 );
+}
+
 .front {
     width: 100%;
     background-image: url(bk.jpeg);
     padding: 80px 60px;
 }
 
-button {
-    size: 50px;
-    
+.front a {
+    padding: 20px 30px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.front a:hover{
+    background-color: rgba(0, 0, 0, 0.5 );
 }
