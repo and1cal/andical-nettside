@@ -78,6 +78,6 @@ body {
 @media (max-width: 900px) {
     /* styling for mobil kommer inni her */
     body {
-        padding:100px;
+        width: 100%;
     }
   }
