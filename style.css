@@ -79,14 +79,15 @@ a {
 
 .front a:hover{
     background-color: rgba(0, 0, 0, 0.5 );
+
 }
-.eng {
+
+.english a {
     padding: 20px 30px;
     border-radius: 10px;
     text-decoration: none;
-    margin-left:85%;
 }
-.eng a:hover{
-    background-color: rgba(0, 0, 0, 0.5 );
 
+.english a:hover{
+    background-color: rgba(0, 0, 0, 0.5 );
 }
