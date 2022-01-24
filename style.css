@@ -74,6 +74,10 @@ body {
     padding: 100px;
     background: #282b30;
 }
+
 @media (max-width: 900px) {
     /* styling for mobil kommer inni her */
+    body {
+        padding:100px;
+    }
   }
