@@ -60,34 +60,3 @@ a {
 .navigation a:hover{
     background-color: rgba(0, 0, 0, 0.5 );
 }
-
-.front {
-    width: 100%;
-    background-image: url(bk.jpeg);
-    padding: 80px 60px;
-    
-}
-
-.front a {
-    padding: 20px 30px;
-    border-radius: 10px;
-    text-decoration: none;
-    margin-left:85%;
-   
-    
-}
-
-.front a:hover{
-    background-color: rgba(0, 0, 0, 0.5 );
-
-}
-
-.english a {
-    padding: 20px 30px;
-    border-radius: 10px;
-    text-decoration: none;
-}
-
-.english a:hover{
-    background-color: rgba(0, 0, 0, 0.5 );
-}
