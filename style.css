@@ -74,3 +74,9 @@ body {
     padding: 100px;
     background: #282b30;
 }
+/* If the screen size is 600px wide or less, hide the element */
+@media screen and (max-width: 600px) {
+    div.example {
+      display: none;
+    }
+  }
