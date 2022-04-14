@@ -80,12 +80,24 @@ body {
     body {
         width: 100%;
     }
-  }
-  .kort {
-      font-style: italic;
-      font-size: 18px;
-  }
-  .short {
-      font-style: italic;
-      font-size: 18px;
-  }
+}
+.kort {
+    font-style: italic;
+    font-size: 18px;
+}
+.short {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.navigation__left {
+    display: flex;
+    align-items: center;
+}
+
+.loglo {
+    height: 100px;
+    width: auto;
+    margin-right: 30px;
+}
+
